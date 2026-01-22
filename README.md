@@ -68,3 +68,12 @@ The following business questions were answered using PostgreSQL:
 - SQL (PostgreSQL)
 - Power BI
 - Jupyter Notebook
+
+## 👤 Author
+
+Sanil Gupta  
+BCA (AI & ML) Student  
+Aspiring Data Scientist
+
+GitHub: https://github.com/Sanil656  
+LinkedIn: https://www.linkedin.com/in/sanil-gupta-64bb11314/
